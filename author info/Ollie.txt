@@ -1,0 +1,7 @@
+Name: Ollie
+
+Course: BsC Computer Science
+
+Short Description: Software Engineer at Drainline and lover of PHP
+
+Linkedin URL: https://www.linkedin.com/in/ollie-bull/
