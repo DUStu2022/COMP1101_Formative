@@ -1,3 +1,4 @@
 Name: Joe Goworek
 Course: Computer Science
-Linkedin URL: https://github.com/jumpoe
+Linkedin URL: www.linkedin.com/in/josef-goworek-640b29254
+GITHUB URL: https://github.com/jumpoe
