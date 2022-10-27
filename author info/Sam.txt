@@ -1,0 +1,7 @@
+Name: Sam
+
+Course: Computer Science
+
+Short Description: I am a computer science student at Durham University, and my background revolves in making basic games, with the view going forward of potentially working in the video game industry. I enjoy making music, cooking and playing videogames.
+
+Linkedin URL: https://www.linkedin.com/in/sam-blanckley-10850a254/
