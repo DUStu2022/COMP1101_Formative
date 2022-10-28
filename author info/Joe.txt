@@ -2,3 +2,4 @@ Name: Joe Goworek
 Course: Computer Science
 Linkedin URL: www.linkedin.com/in/josef-goworek-640b29254
 GITHUB URL: https://github.com/jumpoe
+personal info:i like video games and have been studying computer science since secondary school
