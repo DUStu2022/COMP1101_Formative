@@ -29,5 +29,10 @@ body
     {
         background-color:#e6e5e5;
     }
+
+    .scale-figure
+    {
+        max-width:60%;
+    }
 }
 
