@@ -38,3 +38,8 @@ body
     }
 }
 
+.card-body img
+{
+    width: 100%;
+}
+
